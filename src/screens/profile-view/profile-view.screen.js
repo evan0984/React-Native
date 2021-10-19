@@ -52,6 +52,7 @@ class ProfileView extends React.Component {
       visibleConfirmBlock: false,
       visibleUserSetting: false,
       visibleConfirmDelete: false,
+
     };
 
     this._panResponder = null;

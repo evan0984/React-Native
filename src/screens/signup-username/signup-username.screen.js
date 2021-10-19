@@ -23,6 +23,7 @@ function hasUpperCase(str) {
 }
 function hasNumber(str) {
   return /[0-9]/.test(str);
+
 }
 
 const SignupUsername: () => React$Node = props => {
